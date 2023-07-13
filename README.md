@@ -1,7 +1,7 @@
 ﻿# Project Dev Phrases - REACT JS
 
 <div align="center">
-<img src="https://github.com/danielfelix45/calculatorProject-React/assets/81331726/a45b905b-7daa-4324-99d3-0a300dc4da65" width="700px" />
+<img src="https://github.com/danielfelix45/projectDevPhrases_REACT/assets/81331726/69863cd9-9a3b-45af-b928-58595a750c2d" width="700px" />
 
 </div>
 
@@ -15,4 +15,4 @@
 
 # 🤔 What is the purpose of this project?
 
-The focus of this activity is to practice JavaScript(the MAP function that traverses an array) programming for the Web, using React(USESTATE to make the project dynamic, conditional rendering and conditional rendering in inline style).
+The focus of this activity is to practice JavaScript programming for the Web, using React(USESTATE to make the project dynamic, conditional rendering).
